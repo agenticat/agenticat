@@ -3,7 +3,7 @@
 
   <h1>Hi! I'm Aryan Baranwal 👋</h1>
   <p><b>Class 10 Student | Full-Stack Web Developer | Software Architecture Enthusiast</b></p>
-  
+   
   <p>
     <a href="https://agenticat.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Portfolio" /></a>
     <a href="https://github.com/agenticat"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" /></a>
